@@ -47,8 +47,43 @@ I build things for the web — from pixel-perfect React interfaces to real-time 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Mutinda-Kioko/Telco-RCA-AI-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=Telco-RCA-AI-Agent&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mutinda-Kioko/SNOWFLAKE-DBT-Monthly-CHW-Activity-Aggregation-Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=SNOWFLAKE-DBT-Monthly-CHW-Activity-Aggregation-Model&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mutinda-Kioko/CRYPTO_CDC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=CRYPTO_CDC&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mutinda-Kioko/youtube_analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=youtube_analytics&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mutinda-Kioko/miniapp-asset-generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=miniapp-asset-generator&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Project | Description |
+|---|---|
+| 🛰️ [**Telco-RCA-AI-Agent**](https://github.com/Mutinda-Kioko/Telco-RCA-AI-Agent) | An AI agent for automated root cause analysis (RCA) in telecom network operations |
+| ❄️ [**SNOWFLAKE-DBT-Monthly-CHW-Activity-Aggregation-Model**](https://github.com/Mutinda-Kioko/SNOWFLAKE-DBT-Monthly-CHW-Activity-Aggregation-Model) | A dbt data model on Snowflake that aggregates monthly Community Health Worker (CHW) activity data |
+| 🔗 [**CRYPTO_CDC**](https://github.com/Mutinda-Kioko/CRYPTO_CDC) | Production-ready, end-to-end data pipeline ingesting live market data from Binance, streaming changes via PostgreSQL CDC, and delivering real-time insights through Kafka → Cassandra → Grafana |
+| 📊 [**youtube_analytics**](https://github.com/Mutinda-Kioko/youtube_analytics) | A data analytics project exploring and visualizing YouTube channel/video performance data |
+| 🧩 [**miniapp-asset-generator**](https://github.com/Mutinda-Kioko/miniapp-asset-generator) | A tool for generating assets for mini apps, streamlining a repetitive part of the build process |
 
 <br/>
 
