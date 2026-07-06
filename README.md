@@ -52,34 +52,6 @@ I build things for the web — from pixel-perfect React interfaces to real-time 
 
 <br/>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Mutinda-Kioko/CRYPTO_CDC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=CRYPTO_CDC&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Mutinda-Kioko/GoatyNFTS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=GoatyNFTS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Mutinda-Kioko/web3task">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=web3task&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Mutinda-Kioko/instagram-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutinda-Kioko&repo=instagram-clone&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-| Project | Description |
-|---|---|
-| 🔗 [**CRYPTO_CDC**](https://github.com/Mutinda-Kioko/CRYPTO_CDC) | Production-ready, end-to-end data pipeline ingesting live market data from Binance, streaming changes via PostgreSQL CDC, and delivering real-time insights through Kafka → Cassandra → Grafana |
-| 🐐 [**GoatyNFTS**](https://github.com/Mutinda-Kioko/GoatyNFTS) | Dynamically generated NFT minting project, viewable on OpenSea |
-| 🌐 [**web3task**](https://github.com/Mutinda-Kioko/web3task) | A hands-on exploration of Web3 development patterns |
-| 📸 [**instagram-clone**](https://github.com/Mutinda-Kioko/instagram-clone) | Instagram clone built with React, Firebase Authentication, Firebase Hosting, and Styled Components |
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
